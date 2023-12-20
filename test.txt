@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 testing by alok
+=======
+This is test file added by Manish
+>>>>>>> e247c2e2e03303e027d5fb29c0331525131b1448
